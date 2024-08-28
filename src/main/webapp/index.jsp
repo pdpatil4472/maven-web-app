@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prashant Patil - AWS Cloud Engineer- from dev brc</title>
+    <title>Prashant Patil - AWS Cloud Engineer</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -81,7 +81,7 @@
 <body>
 
     <header>
-        <h1>Prashant Patil</h1>
+        <h1>Prashant Patil (from dev-brc)</h1>
         <p>AWS Cloud Engineer | 7+ years of Experience in Support Engineering and Windows Administration</p>
     </header>
 
