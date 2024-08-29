@@ -7,54 +7,50 @@
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            background-color: #e9ecef;
+            background-color: #fff;
             margin: 0;
             padding: 0;
-            color: #343a40;
+            color: #000;
         }
         .container {
-            width: 85%;
+            width: 80%;
             margin: auto;
             padding: 20px;
-            background-color: #ffffff;
-            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
+            background-color: #fff;
+            border: 1px solid #ccc;
         }
         header {
-            background: linear-gradient(135deg, #007acc 0%, #00d2ff 100%);
-            color: #ffffff;
-            padding: 30px 0;
+            background-color: #000;
+            color: #fff;
+            padding: 20px 0;
             text-align: center;
-            border-radius: 10px 10px 0 0;
-            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+            border-bottom: 1px solid #ccc;
         }
         header h1 {
             margin: 0;
-            font-size: 36px;
+            font-size: 32px;
         }
         header p {
-            font-size: 20px;
+            font-size: 18px;
         }
         section {
             margin-bottom: 30px;
         }
         h2 {
-            color: #007acc;
-            border-bottom: 3px solid #007acc;
-            padding-bottom: 8px;
-            margin-bottom: 20px;
-            font-size: 26px;
+            border-bottom: 1px solid #000;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+            font-size: 24px;
         }
         ul {
             list-style-type: none;
             padding: 0;
         }
         ul li {
-            padding: 15px;
-            background-color: #f8f9fa;
-            margin-bottom: 15px;
-            border-left: 5px solid #007acc;
-            border-radius: 5px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            margin-bottom: 10px;
+            border-left: 4px solid #000;
         }
         ul li:last-child {
             margin-bottom: 0;
@@ -62,32 +58,20 @@
         .contact-info {
             text-align: center;
             margin-bottom: 30px;
-            padding: 15px;
-            background-color: #f1f1f1;
-            border-radius: 10px;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
         }
         .contact-info p {
-            margin: 8px 0;
-            font-size: 18px;
+            margin: 5px 0;
+            font-size: 16px;
         }
-        .contact-info a {
-            color: #007acc;
-            text-decoration: none;
-        }
-        .contact-info a:hover {
-            text-decoration: underline;
-        }
-        .skills ul, .certifications ul, .awards ul, .projects ul {
+        .skills ul, .certifications ul, .awards ul {
             columns: 2;
         }
         footer {
             text-align: center;
-            padding: 25px;
-            background-color: #007acc;
-            color: #ffffff;
-            margin-top: 30px;
-            border-radius: 0 0 10px 10px;
+            padding: 20px;
+            background-color: #000;
+            color: #fff;
+            border-top: 1px solid #ccc;
         }
     </style>
 </head>
@@ -95,7 +79,7 @@
 
     <header>
         <h1>Prashant Patil</h1>
-        <p>AWS Cloud Engineer | 7+ Years in IT Support and Windows Administration</p>
+        <p>AWS Cloud Engineer | 7+ years of Experience in Support Engineering and Windows Administration</p>
     </header>
 
     <div class="container">
@@ -178,25 +162,4 @@
         <section class="certifications">
             <h2>Certifications and Courses</h2>
             <ul>
-                <li>AWS SysOps: Validation number: 8a00edbf574448b8ac48b7667007f8ad - May 2024</li>
-                <li>CCNA (640.802): Validation number: 410074168968FQWF - March 2013</li>
-                <li>IBM Cloud Essentials - Issued by IBM in 2021</li>
-                <li>IBM Core Cloud - Issued by IBM in 2021</li>
-                <li>Networking Basics - Issued by Cisco in 2021</li>
-                <li>MCITP course completed from Net-metric Solution - March 2015</li>
-                <li>CCNP course completed from Net-metric Solution - March 2015</li>
-            </ul>
-        </section>
-
-        <section class="awards">
-            <h2>Awards and Honors</h2>
-            <ul>
-                <li>Superlative teammate for IBM GBS internal project - Dec 2023</li>
-                <li>Exceptional efforts for IBM GBS internal project - Jan 2022</li>
-            </ul>
-        </section>
-
-        <section class="projects">
-            <h2>Projects</h2>
-            <ul>
-                <li><strong>Automation of
+                <li>AWS SysOps: Validation number: 8a00edbf574448
